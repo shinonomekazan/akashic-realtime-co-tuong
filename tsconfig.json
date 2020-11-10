@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "lib": ["es5", "ES6", "DOM"],
+    "noImplicitAny": true,
+    "module": "commonjs" ,
+    "outDir": "script",
+    "types" : [],
+    "noImplicitUseStrict": true
+  },
+  "files": [
+    "node_modules/@akashic/akashic-engine/lib/main.d.ts"
+  ],
+  "include": [
+    "src/**/*.ts",
+    "typings/console.d.ts"
+  ]
+}
