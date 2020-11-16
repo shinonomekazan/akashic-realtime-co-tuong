@@ -1,4 +1,4 @@
-# chinese-chess
+# akashic-realtime-co-tuong
 
 ## 利用方法
 ```sh
