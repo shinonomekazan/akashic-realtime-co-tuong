@@ -1,6 +1,5 @@
 {
-  "name": "typescript-game-sample",
-  "private": true,
+  "name": "akashic-realtime-co-tuong",
   "version": "0.1.0",
   "description": "",
   "scripts": {
@@ -14,7 +13,7 @@
     "lint": "eslint -c .eslintrc.js \"src/**/*.ts\" --fix"
   },
   "author": "",
-  "license": "",
+  "license": "MIT",
   "devDependencies": {
     "@akashic/akashic-cli-export-html": "0.7.77",
     "@akashic/akashic-cli-export-zip": "0.6.61",
